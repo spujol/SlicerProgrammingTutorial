@@ -1,5 +1,3 @@
-# SlicerProgrammingTutorial
-
 The <a href="https://github.com/spujol/SlicerProgrammingTutorial/blob/master/Slicer5_ProgrammingTutorial_SoniaPujol-StevePieper.pdf" target="_blank"> Slicer Programming Tutorial </a> is an introduction to the Python Interactor and the Qt Widget toolkit in 3D Slicer. 
   
 Authors
