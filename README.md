@@ -2,7 +2,7 @@ The <a href="http://spujol.github.io/SlicerProgrammingTutorial/Slicer5_Programmi
 
 
 Authors
-* Sonia Pujol, Ph.D, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
+* Sonia Pujol, Ph.D, Director of 3D Training and Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 * Steve Pieper, Ph.D., 3D Slicer Chief Architect, Isomics Inc.
 
 
