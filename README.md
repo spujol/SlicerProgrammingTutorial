@@ -5,3 +5,4 @@ Authors
 * Sonia Pujol, Ph.D, Director of 3D Training and Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 * Steve Pieper, Ph.D., 3D Slicer Chief Architect, Isomics Inc.
 
+The tutorial includes a step-by-step guide and <a href="https://www.dropbox.com/s/51o595rzvgexp4j/SlicerProgrammingTutorialData.zip?dl=0" target="_blank"> a training dataset.
