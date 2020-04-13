@@ -1,4 +1,4 @@
-The <a href="http://spujol.github.io/SlicerProgrammingTutorial/Slicer5_ProgrammingTutorial_SPujol-SPieper.pdf"> Slicer Programming Tutorial </a> is an introduction to the Python Interactor and the Qt Widget toolkit in 3D Slicer. 
+The <a href="http://spujol.github.io/SlicerProgrammingTutorial/Slicer5_ProgrammingTutorial_SPujol-SPieper.pdf" target="_blank> Slicer Programming Tutorial </a> is an introduction to the Python Interactor and the Qt Widget toolkit in 3D Slicer. 
 
 
 Authors
