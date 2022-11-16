@@ -1,5 +1,6 @@
-The <a href="https://github.com/spujol/SlicerProgrammingTutorial/releases/latest/download/Slicer5_ProgrammingTutorial_SPujol-SPieper.pdf" target="_blank"> Slicer Programming Tutorial </a> is an introduction to the Python Interactor and the Qt Widget toolkit in 3D Slicer. 
+The <a href="https://github.com/spujol/SlicerProgrammingTutorial/releases/latest/download/Slicer5_ProgrammingTutorial_SPujol-SPieper.pdf" target="_blank"> Slicer Programming Tutorial </a> is an introduction to the Python console [^1] and the Qt Widget toolkit in 3D Slicer. 
 
+[^1]: Starting with Slicer 5.2, the `Python interactor` was renamed `Python console`
 
 Authors
 * Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
